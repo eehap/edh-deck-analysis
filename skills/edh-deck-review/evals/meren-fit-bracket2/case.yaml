@@ -1,0 +1,8 @@
+schema_version: "1.1"
+name: meren-fit-bracket2
+context:
+  scaffold_script: place-files.sh
+expected_outcome: |
+  Identifies that the deck sits at Bracket 3+ by rules, that all three Game Changers must go for Bracket 2, that the
+  Mikaeus + Triskelion two-card combo conflicts with Bracket 2 (cut a piece), offers minimal non-Game-Changer
+  replacements, and does not suggest adding combo-completing cards such as Nim Deathmantle.

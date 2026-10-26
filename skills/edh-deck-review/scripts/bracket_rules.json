@@ -1,0 +1,27 @@
+{
+  "_about": "Official Commander Brackets (beta). Rules last changed 2025-10-21 (tutor restrictions removed; Bracket 2 separated from precons; turn expectations added). Game Changers last changed 2026-02-09 (Biorhythm and Farewell added; 53 cards). Third-party trackers report no Commander changes in the Mar 23, May 18, Jun 29, Aug 10 2026 B&R announcements. The Oct 2026 announcement was not verified. Prefer Scryfall's game_changer field / is:gamechanger over the list below; the blue entries were reconstructed from secondary sources.",
+  "verified_through": "2026-10-23",
+  "brackets": {
+    "1": {"name": "Exhibition", "game_changers": 0, "mld": false, "extra_turn_chaining": false, "two_card_combos": "none", "min_game_turns": 9},
+    "2": {"name": "Core", "game_changers": 0, "mld": false, "extra_turn_chaining": false, "two_card_combos": "no intentional ones", "min_game_turns": 8},
+    "3": {"name": "Upgraded", "game_changers": 3, "mld": false, "extra_turn_chaining": false, "two_card_combos": "none before turn 6", "min_game_turns": 6},
+    "4": {"name": "Optimized", "game_changers": null, "mld": true, "extra_turn_chaining": true, "two_card_combos": "allowed", "min_game_turns": 4},
+    "5": {"name": "cEDH", "game_changers": null, "mld": true, "extra_turn_chaining": true, "two_card_combos": "allowed", "min_game_turns": 0}
+  },
+  "tutors": "No tutor restriction in any bracket since 2025-10-21; the most efficient tutors are Game Changers.",
+  "game_changers": [
+    "Drannith Magistrate", "Enlightened Tutor", "Farewell", "Humility", "Serra's Sanctum", "Smothering Tithe", "Teferi's Protection",
+    "Consecrated Sphinx", "Cyclonic Rift", "Fierce Guardianship", "Force of Will", "Gifts Ungiven", "Intuition", "Mystical Tutor",
+    "Narset, Parter of Veils", "Rhystic Study", "Thassa's Oracle",
+    "Ad Nauseam", "Bolas's Citadel", "Braids, Cabal Minion", "Demonic Tutor", "Imperial Seal", "Necropotence", "Opposition Agent",
+    "Orcish Bowmasters", "Tergrid, God of Fright", "Vampiric Tutor",
+    "Gamble", "Jeska's Will", "Underworld Breach",
+    "Biorhythm", "Crop Rotation", "Gaea's Cradle", "Natural Order", "Seedborn Muse", "Survival of the Fittest", "Worldly Tutor",
+    "Aura Shards", "Coalition Victory", "Grand Arbiter Augustin IV", "Notion Thief",
+    "Ancient Tomb", "Chrome Mox", "Field of the Dead", "Glacial Chasm", "Grim Monolith", "Lion's Eye Diamond", "Mana Vault",
+    "Mishra's Workshop", "Mox Diamond", "Panoptic Mirror", "The One Ring", "The Tabernacle at Pendrell Vale"
+  ],
+  "removed_2025_10_21": ["Expropriate", "Jin-Gitaxias, Core Augur", "Sway of the Stars", "Vorinclex, Voice of Hunger",
+                         "Kinnan, Bonder Prodigy", "Urza, Lord High Artificer", "Winota, Joiner of Forces",
+                         "Yuriko, the Tiger's Shadow", "Deflecting Swat", "Food Chain"]
+}

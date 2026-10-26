@@ -1,0 +1,172 @@
+{
+ "results": {
+  "identity": "BG",
+  "included": [
+   {
+    "id": "1234-5678",
+    "uses": [
+     {
+      "card": {
+       "name": "Mikaeus, the Unhallowed",
+       "oracleId": "7d6cbc31-4268-5a41-9e8f-d890e738435c"
+      },
+      "quantity": 1,
+      "zoneLocations": [
+       "B"
+      ]
+     },
+     {
+      "card": {
+       "name": "Triskelion",
+       "oracleId": "1fb78c2b-3b64-5845-8293-5e0c6e5058b4"
+      },
+      "quantity": 1,
+      "zoneLocations": [
+       "B"
+      ]
+     }
+    ],
+    "produces": [
+     {
+      "feature": {
+       "name": "Infinite damage"
+      }
+     },
+     {
+      "feature": {
+       "name": "Infinite death triggers"
+      }
+     }
+    ],
+    "bracketTag": "S",
+    "manaNeeded": "",
+    "identity": "B",
+    "legalities": {
+     "commander": true
+    },
+    "popularity": 4100,
+    "easyPrerequisites": "All permanents on the battlefield.",
+    "notablePrerequisites": "",
+    "description": "1. Remove a +1/+1 counter from Triskelion to deal 1 damage, three times.\n2. Triskelion dies and returns with undying.\n3. Repeat."
+   },
+   {
+    "id": "2345-6789",
+    "uses": [
+     {
+      "card": {
+       "name": "Gravecrawler",
+       "oracleId": "ba456f89-4cec-5422-ba3b-47e65d5e6fa1"
+      },
+      "quantity": 1,
+      "zoneLocations": [
+       "B"
+      ]
+     },
+     {
+      "card": {
+       "name": "Phyrexian Altar",
+       "oracleId": "a641dc15-37fe-59c5-8102-161949dfb18c"
+      },
+      "quantity": 1,
+      "zoneLocations": [
+       "B"
+      ]
+     },
+     {
+      "card": {
+       "name": "Blood Artist",
+       "oracleId": "49c20e8f-ea69-5870-8fdc-6192935ef908"
+      },
+      "quantity": 1,
+      "zoneLocations": [
+       "B"
+      ]
+     }
+    ],
+    "produces": [
+     {
+      "feature": {
+       "name": "Infinite death triggers"
+      }
+     },
+     {
+      "feature": {
+       "name": "Infinite lifeloss"
+      }
+     }
+    ],
+    "bracketTag": "R",
+    "manaNeeded": "",
+    "identity": "B",
+    "legalities": {
+     "commander": true
+    },
+    "popularity": 9000,
+    "easyPrerequisites": "Gravecrawler in graveyard, another Zombie on the battlefield.",
+    "notablePrerequisites": "",
+    "description": "1. Sacrifice Gravecrawler to Phyrexian Altar for {B}.\n2. Cast Gravecrawler from graveyard.\n3. Repeat."
+   }
+  ],
+  "almostIncluded": [
+   {
+    "id": "3456-7890",
+    "uses": [
+     {
+      "card": {
+       "name": "Ashnod's Altar",
+       "oracleId": "47e6ccb8-ed61-5451-96df-8414689dc1b7"
+      },
+      "quantity": 1,
+      "zoneLocations": [
+       "B"
+      ]
+     },
+     {
+      "card": {
+       "name": "Nim Deathmantle",
+       "oracleId": "136d0a8b-ffcb-5c6a-9531-3214945d9f02"
+      },
+      "quantity": 1,
+      "zoneLocations": [
+       "B"
+      ]
+     },
+     {
+      "card": {
+       "name": "Pitiless Plunderer",
+       "oracleId": "8869c8b6-ead9-57c9-adbf-9dc5c5e04dba"
+      },
+      "quantity": 1,
+      "zoneLocations": [
+       "B"
+      ]
+     }
+    ],
+    "produces": [
+     {
+      "feature": {
+       "name": "Infinite death triggers"
+      }
+     },
+     {
+      "feature": {
+       "name": "Infinite colorless mana"
+      }
+     }
+    ],
+    "bracketTag": "R",
+    "manaNeeded": "{4}",
+    "identity": "B",
+    "legalities": {
+     "commander": true
+    },
+    "popularity": 3200,
+    "easyPrerequisites": "",
+    "notablePrerequisites": "A nontoken creature",
+    "description": "..."
+   }
+  ],
+  "almostIncludedByAddingColors": [],
+  "includedByChangingCommanders": []
+ }
+}

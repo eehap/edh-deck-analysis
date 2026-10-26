@@ -1,0 +1,9 @@
+schema_version: "1.1"
+name: messy-moxfield-import
+context:
+  scaffold_script: place-files.sh
+expected_outcome: |
+  Produces deck.json with Meren as commander (B/G identity) and reports the problems: 'Sol Rnig' unresolved (likely
+  Sol Ring), Sol Ring listed twice (singleton), 'A-Blood Artist' is an Alchemy/digital card not legal in paper,
+  Bala Ged Recovery resolved to the full modal double-faced name, foil/etched/tag markers stripped, and the deck size
+  is not 100.

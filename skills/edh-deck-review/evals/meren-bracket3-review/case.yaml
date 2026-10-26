@@ -1,0 +1,9 @@
+schema_version: "1.1"
+name: meren-bracket3-review
+context:
+  scaffold_script: place-files.sh
+expected_outcome: |
+  A written deck review report following the edh-deck-review template: verdict, bracket (rules floor 3 because of
+  3 Game Changers, separate judgment estimate), role table, mana base with Karsten's land figure and the ~36 EDHREC
+  average, black-source shortfall for {B}{B} costs, combos (Mikaeus + Triskelion and the Gravecrawler loop) with
+  Commander Spellbook credit, and a cut/add table with reasons, budget-respecting and within B/G identity.

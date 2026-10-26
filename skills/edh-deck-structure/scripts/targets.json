@@ -1,0 +1,251 @@
+{
+  "_about": "Default role-count targets (Bracket 2-3 midrange) and strategy/bracket offsets. Counts are weighted (a card filling two roles counts in both). Sources: Command Zone Ep. 658 'Commander Deckbuilding Template for the New Era' (Feb 18 2025): ramp 10, card advantage 12, targeted disruption 12, mass disruption 6, lands 38, plan 30; Kraken the Meta and Spellweave 2026 guides (removal 8-10, wipes 2-4, win cons 2-4); Karsten land formula. Strategy offsets are a synthesis of common practice, not a single primary source.",
+  "version": "2026-10-23b",
+  "default": {
+    "land": {
+      "target": "karsten",
+      "min": 35,
+      "max": 40
+    },
+    "ramp": {
+      "target": 10,
+      "min": 8,
+      "max": 12
+    },
+    "card_advantage": {
+      "target": 12,
+      "min": 9,
+      "max": 14
+    },
+    "targeted_interaction": {
+      "target": 10,
+      "min": 8,
+      "max": 12
+    },
+    "mass_interaction": {
+      "target": 4,
+      "min": 2,
+      "max": 6
+    },
+    "protection": {
+      "target": 4,
+      "min": 2,
+      "max": 8
+    },
+    "tutor": {
+      "target": 2,
+      "min": 0,
+      "max": 4
+    },
+    "wincon": {
+      "target": 4,
+      "min": 2,
+      "max": 6
+    },
+    "recursion": {
+      "target": 3,
+      "min": 0,
+      "max": 6
+    },
+    "_curve_7plus_max": 6
+  },
+  "strategies": {
+    "midrange": {
+      "_note": "defaults"
+    },
+    "voltron": {
+      "protection": {
+        "target": 8,
+        "min": 6,
+        "max": 10
+      },
+      "mass_interaction": {
+        "target": 2,
+        "min": 0,
+        "max": 3
+      },
+      "_note": "Cheap equipment/auras count as plan; symmetrical wipes hurt you more than opponents."
+    },
+    "spellslinger": {
+      "land": {
+        "target": "karsten",
+        "min": 33,
+        "max": 36
+      },
+      "card_advantage": {
+        "target": 14,
+        "min": 12,
+        "max": 18
+      },
+      "_note": "Cantrips push the land count down; cheap interaction doubles as plan."
+    },
+    "tokens": {
+      "mass_interaction": {
+        "target": 2,
+        "min": 0,
+        "max": 2
+      },
+      "wincon": {
+        "target": 4,
+        "min": 3,
+        "max": 6
+      },
+      "_note": "Flag symmetrical wipes. Anthems/overrun effects are the win conditions.",
+      "tokens": {
+        "target": 10,
+        "min": 7,
+        "max": 20
+      }
+    },
+    "aristocrats": {
+      "recursion": {
+        "target": 4,
+        "min": 3,
+        "max": 6
+      },
+      "_note": "Sac outlets and death-trigger payoffs are engine; edicts double as interaction.",
+      "tokens": {
+        "target": 6,
+        "min": 4,
+        "max": 12
+      }
+    },
+    "landfall": {
+      "land": {
+        "target": "karsten+3",
+        "min": 40,
+        "max": 46
+      },
+      "ramp": {
+        "target": 12,
+        "min": 10,
+        "max": 16
+      },
+      "_note": "Land ramp overlaps with plan."
+    },
+    "stax": {
+      "mass_interaction": {
+        "target": 6,
+        "min": 4,
+        "max": 10
+      },
+      "_note": "Stax pieces count as mass disruption; mass land denial pushes the deck to Bracket 4+."
+    },
+    "combo": {
+      "land": {
+        "target": "karsten",
+        "min": 33,
+        "max": 36
+      },
+      "tutor": {
+        "target": 6,
+        "min": 4,
+        "max": 10
+      },
+      "protection": {
+        "target": 6,
+        "min": 4,
+        "max": 8
+      },
+      "wincon": {
+        "target": 3,
+        "min": 1,
+        "max": 5
+      },
+      "_note": "Fast mana lowers the land count; protect the combo."
+    },
+    "polymorph": {
+      "wincon": {
+        "target": 2,
+        "min": 1,
+        "max": 4
+      },
+      "engine": {
+        "target": 10,
+        "min": 7,
+        "max": 20
+      },
+      "tokens": {
+        "target": 6,
+        "min": 4,
+        "max": 12
+      },
+      "_curve_7plus_max": 16,
+      "_note": "Polymorph/cheat decks win with whatever the library hands them, so fewer dedicated win conditions are needed in hand; expect lots of engine (polymorph effects) and fodder (repeatable tokens) and tolerate a high 7+ count, since big hits are cheated in rather than cast. Report hit density for every reveal-until effect."
+    },
+    "cheat": {
+      "wincon": {
+        "target": 2,
+        "min": 1,
+        "max": 4
+      },
+      "engine": {
+        "target": 10,
+        "min": 7,
+        "max": 20
+      },
+      "tokens": {
+        "target": 6,
+        "min": 4,
+        "max": 12
+      },
+      "_curve_7plus_max": 16,
+      "_note": "Alias of polymorph: cheat-into-play decks (sneak, reveal-until, reanimation)."
+    },
+    "reanimator": {
+      "recursion": {
+        "target": 8,
+        "min": 5,
+        "max": 14
+      },
+      "engine": {
+        "target": 8,
+        "min": 5,
+        "max": 16
+      },
+      "_curve_7plus_max": 14,
+      "_note": "Reanimation targets are cheated in; expect self-mill/discard enablers as engine and a high 7+ count."
+    }
+  },
+  "bracket_offsets": {
+    "1": {
+      "_note": "Exhibition: theme over power. Report deviations gently; targets are loose."
+    },
+    "2": {
+      "_note": "Core: defaults apply."
+    },
+    "3": {
+      "_note": "Upgraded: defaults apply."
+    },
+    "4": {
+      "land": {
+        "min_delta": -2,
+        "max_delta": -1
+      },
+      "tutor": {
+        "min_delta": 2,
+        "max_delta": 4
+      },
+      "ramp": {
+        "min_delta": 0,
+        "max_delta": 2
+      },
+      "_note": "Optimized: lower curve, more fast mana and tutors."
+    },
+    "5": {
+      "land": {
+        "min_delta": -4,
+        "max_delta": -3
+      },
+      "tutor": {
+        "min_delta": 4,
+        "max_delta": 6
+      },
+      "ramp": {
+        "min_delta": 2,
+        "max_delta": 4
+      },
+      "_note": "cEDH: generic targets fit poorly; judge against the competitive meta instead."
+    }
+  }
+}

@@ -1,0 +1,10 @@
+schema_version: "1.1"
+name: meren-collection-only
+context:
+  scaffold_script: place-files.sh
+expected_outcome: |
+  Swaps for the Meren deck that add only cards from the collection: Nim Deathmantle and Fatal Push are the owned
+  cards that fit (B/G identity, legal, not already in the deck). Armageddon and Time Warp are owned but outside
+  the deck's colours and are not suggested; cards the user doesn't own (e.g. Deadly Rollick) are not suggested
+  as adds. Darksteel Colossus is a cut. The response notes that only a couple of owned cards fit and points out
+  what remaining gaps would need purchases, without presenting purchases as part of the swap list.

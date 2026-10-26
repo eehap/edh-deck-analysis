@@ -1,0 +1,2904 @@
+[
+ {
+  "object": "card",
+  "oracle_id": "5a589efa-c4d9-5616-bfe4-67ad1e78100e",
+  "name": "Meren of Clan Nel Toth",
+  "layout": "normal",
+  "mana_cost": "{2}{B}{G}",
+  "cmc": 4.0,
+  "type_line": "Legendary Creature \u2014 Human Shaman",
+  "oracle_text": "Whenever another creature you control dies, you get an experience counter.\nAt the beginning of your end step, choose target creature card in your graveyard. If that card's mana value is less than or equal to the number of experience counters you have, return that card to the battlefield. Otherwise, put it into your hand.",
+  "colors": [
+   "B",
+   "G"
+  ],
+  "color_identity": [
+   "B",
+   "G"
+  ],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "mythic",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  }
+ },
+ {
+  "object": "card",
+  "oracle_id": "422f03aa-270b-54fb-b574-6bf804b029e5",
+  "name": "Sol Ring",
+  "layout": "normal",
+  "mana_cost": "{1}",
+  "cmc": 1.0,
+  "type_line": "Artifact",
+  "oracle_text": "{T}: Add {C}{C}.",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 1,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "1.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  },
+  "produced_mana": [
+   "C"
+  ]
+ },
+ {
+  "object": "card",
+  "oracle_id": "3d1befad-e840-594f-8102-d3e875211a34",
+  "name": "Arcane Signet",
+  "layout": "normal",
+  "mana_cost": "{2}",
+  "cmc": 2.0,
+  "type_line": "Artifact",
+  "oracle_text": "{T}: Add one mana of any color in your commander's color identity.",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  },
+  "produced_mana": [
+   "W",
+   "U",
+   "B",
+   "R",
+   "G"
+  ]
+ },
+ {
+  "object": "card",
+  "oracle_id": "05710992-8fab-5bdd-94fd-eacabaa47b3f",
+  "name": "Golgari Signet",
+  "layout": "normal",
+  "mana_cost": "{2}",
+  "cmc": 2.0,
+  "type_line": "Artifact",
+  "oracle_text": "{1}, {T}: Add {B}{G}.",
+  "colors": [],
+  "color_identity": [
+   "B",
+   "G"
+  ],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  },
+  "produced_mana": [
+   "B",
+   "G"
+  ]
+ },
+ {
+  "object": "card",
+  "oracle_id": "9cee1ced-139f-59d4-8d1a-7020362a9244",
+  "name": "Cultivate",
+  "layout": "normal",
+  "mana_cost": "{2}{G}",
+  "cmc": 3.0,
+  "type_line": "Sorcery",
+  "oracle_text": "Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle.",
+  "colors": [
+   "G"
+  ],
+  "color_identity": [
+   "G"
+  ],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  }
+ },
+ {
+  "object": "card",
+  "oracle_id": "f91fda4f-a5d4-55d3-8175-f01b02014f33",
+  "name": "Kodama's Reach",
+  "layout": "normal",
+  "mana_cost": "{2}{G}",
+  "cmc": 3.0,
+  "type_line": "Sorcery \u2014 Arcane",
+  "oracle_text": "Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle.",
+  "colors": [
+   "G"
+  ],
+  "color_identity": [
+   "G"
+  ],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  }
+ },
+ {
+  "object": "card",
+  "oracle_id": "e0bc292a-82c4-5e12-af4e-ab9b23f1b78d",
+  "name": "Farseek",
+  "layout": "normal",
+  "mana_cost": "{1}{G}",
+  "cmc": 2.0,
+  "type_line": "Sorcery",
+  "oracle_text": "Search your library for a Plains, Island, Swamp, or Mountain card, put it onto the battlefield tapped, then shuffle.",
+  "colors": [
+   "G"
+  ],
+  "color_identity": [
+   "G"
+  ],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  }
+ },
+ {
+  "object": "card",
+  "oracle_id": "744cac5c-9d74-548b-8fdd-62217bc32daf",
+  "name": "Llanowar Elves",
+  "layout": "normal",
+  "mana_cost": "{G}",
+  "cmc": 1.0,
+  "type_line": "Creature \u2014 Elf Druid",
+  "oracle_text": "{T}: Add {G}.",
+  "colors": [
+   "G"
+  ],
+  "color_identity": [
+   "G"
+  ],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  },
+  "produced_mana": [
+   "G"
+  ]
+ },
+ {
+  "object": "card",
+  "oracle_id": "6165ae05-3657-55c8-bf85-eaaf1316a64d",
+  "name": "Birds of Paradise",
+  "layout": "normal",
+  "mana_cost": "{G}",
+  "cmc": 1.0,
+  "type_line": "Creature \u2014 Bird",
+  "oracle_text": "Flying\n{T}: Add one mana of any color.",
+  "colors": [
+   "G"
+  ],
+  "color_identity": [
+   "G"
+  ],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  },
+  "produced_mana": [
+   "W",
+   "U",
+   "B",
+   "R",
+   "G"
+  ]
+ },
+ {
+  "object": "card",
+  "oracle_id": "d67f09a7-a487-58d7-83df-37d6b74e2c33",
+  "name": "Sakura-Tribe Elder",
+  "layout": "normal",
+  "mana_cost": "{1}{G}",
+  "cmc": 2.0,
+  "type_line": "Creature \u2014 Snake Shaman",
+  "oracle_text": "Sacrifice Sakura-Tribe Elder: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.",
+  "colors": [
+   "G"
+  ],
+  "color_identity": [
+   "G"
+  ],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  }
+ },
+ {
+  "object": "card",
+  "oracle_id": "c01e085e-d477-59b6-84f1-850684668312",
+  "name": "Wood Elves",
+  "layout": "normal",
+  "mana_cost": "{2}{G}",
+  "cmc": 3.0,
+  "type_line": "Creature \u2014 Elf Scout",
+  "oracle_text": "When Wood Elves enters, search your library for a Forest card, put that card onto the battlefield, then shuffle.",
+  "colors": [
+   "G"
+  ],
+  "color_identity": [
+   "G"
+  ],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  }
+ },
+ {
+  "object": "card",
+  "oracle_id": "29a0e945-51cc-5d7e-9b2e-4155a1c8297c",
+  "name": "Burnished Hart",
+  "layout": "normal",
+  "mana_cost": "{3}",
+  "cmc": 3.0,
+  "type_line": "Artifact Creature \u2014 Elk",
+  "oracle_text": "{3}, Sacrifice Burnished Hart: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  }
+ },
+ {
+  "object": "card",
+  "oracle_id": "6015eef2-6ae8-583f-a5e7-a477b83227a3",
+  "name": "Thran Dynamo",
+  "layout": "normal",
+  "mana_cost": "{4}",
+  "cmc": 4.0,
+  "type_line": "Artifact",
+  "oracle_text": "{T}: Add {C}{C}{C}.",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "5.00",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  },
+  "produced_mana": [
+   "C"
+  ]
+ },
+ {
+  "object": "card",
+  "oracle_id": "5898bbd1-d0bd-503f-b218-f4187a9b95a1",
+  "name": "Gilded Lotus",
+  "layout": "normal",
+  "mana_cost": "{5}",
+  "cmc": 5.0,
+  "type_line": "Artifact",
+  "oracle_text": "{T}: Add three mana of any one color.",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  },
+  "produced_mana": [
+   "W",
+   "U",
+   "B",
+   "R",
+   "G"
+  ]
+ },
+ {
+  "object": "card",
+  "oracle_id": "320c5fa0-dc4f-57e0-83b8-652608fd997d",
+  "name": "Skullclamp",
+  "layout": "normal",
+  "mana_cost": "{1}",
+  "cmc": 1.0,
+  "type_line": "Artifact \u2014 Equipment",
+  "oracle_text": "Equipped creature gets +1/-1.\nWhenever equipped creature dies, draw two cards.\nEquip {1}",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  }
+ },
+ {
+  "object": "card",
+  "oracle_id": "f54db6d2-49da-56b9-9689-8815c13b0be2",
+  "name": "Phyrexian Arena",
+  "layout": "normal",
+  "mana_cost": "{1}{B}{B}",
+  "cmc": 3.0,
+  "type_line": "Enchantment",
+  "oracle_text": "At the beginning of your upkeep, you draw a card and you lose 1 life.",
+  "colors": [
+   "B"
+  ],
+  "color_identity": [
+   "B"
+  ],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  }
+ },
+ {
+  "object": "card",
+  "oracle_id": "8802fd16-1d76-5a3e-8f8e-99810671f612",
+  "name": "Harvester of Souls",
+  "layout": "normal",
+  "mana_cost": "{4}{B}{B}",
+  "cmc": 6.0,
+  "type_line": "Creature \u2014 Demon",
+  "oracle_text": "Deathtouch\nWhenever another nontoken creature dies, you may draw a card.",
+  "colors": [
+   "B"
+  ],
+  "color_identity": [
+   "B"
+  ],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  }
+ },
+ {
+  "object": "card",
+  "oracle_id": "1025e9b8-a824-572f-aade-01d6d07bf6ec",
+  "name": "Night's Whisper",
+  "layout": "normal",
+  "mana_cost": "{1}{B}",
+  "cmc": 2.0,
+  "type_line": "Sorcery",
+  "oracle_text": "You draw two cards and you lose 2 life.",
+  "colors": [
+   "B"
+  ],
+  "color_identity": [
+   "B"
+  ],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  }
+ },
+ {
+  "object": "card",
+  "oracle_id": "e07fcaba-8d58-55b5-8752-ae5c9346fb83",
+  "name": "Grim Haruspex",
+  "layout": "normal",
+  "mana_cost": "{2}{B}",
+  "cmc": 3.0,
+  "type_line": "Creature \u2014 Human Wizard",
+  "oracle_text": "Morph {B}\nWhenever another nontoken creature you control dies, draw a card.",
+  "colors": [
+   "B"
+  ],
+  "color_identity": [
+   "B"
+  ],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  }
+ },
+ {
+  "object": "card",
+  "oracle_id": "16e26273-d579-5c2a-94f4-3b2eef07df35",
+  "name": "Beast Whisperer",
+  "layout": "normal",
+  "mana_cost": "{2}{G}{G}",
+  "cmc": 4.0,
+  "type_line": "Creature \u2014 Elf Druid",
+  "oracle_text": "Whenever you cast a creature spell, draw a card.",
+  "colors": [
+   "G"
+  ],
+  "color_identity": [
+   "G"
+  ],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  }
+ },
+ {
+  "object": "card",
+  "oracle_id": "4a73f1a8-9237-5e44-97cd-a78d5f79a9ae",
+  "name": "Midnight Reaper",
+  "layout": "normal",
+  "mana_cost": "{2}{B}",
+  "cmc": 3.0,
+  "type_line": "Creature \u2014 Zombie Knight",
+  "oracle_text": "Whenever a nontoken creature you control dies, Midnight Reaper deals 1 damage to you and you draw a card.",
+  "colors": [
+   "B"
+  ],
+  "color_identity": [
+   "B"
+  ],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  }
+ },
+ {
+  "object": "card",
+  "oracle_id": "8e5adbf3-8f1b-58a8-949f-c341fbc1216c",
+  "name": "Sign in Blood",
+  "layout": "normal",
+  "mana_cost": "{B}{B}",
+  "cmc": 2.0,
+  "type_line": "Sorcery",
+  "oracle_text": "Target player draws two cards and loses 2 life.",
+  "colors": [
+   "B"
+  ],
+  "color_identity": [
+   "B"
+  ],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  }
+ },
+ {
+  "object": "card",
+  "oracle_id": "fcc50f98-a5ee-5bb9-b61f-a88f0c32753b",
+  "name": "Pelakka Wurm",
+  "layout": "normal",
+  "mana_cost": "{4}{G}{G}{G}",
+  "cmc": 7.0,
+  "type_line": "Creature \u2014 Wurm",
+  "oracle_text": "Trample\nWhen Pelakka Wurm enters, you gain 7 life.\nWhen Pelakka Wurm dies, draw a card.",
+  "colors": [
+   "G"
+  ],
+  "color_identity": [
+   "G"
+  ],
+  "keywords": [
+   "Trample"
+  ],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  }
+ },
+ {
+  "object": "card",
+  "oracle_id": "f13ccc46-7d29-5eed-a846-94501c071a2a",
+  "name": "Sylvan Library",
+  "layout": "normal",
+  "mana_cost": "{1}{G}",
+  "cmc": 2.0,
+  "type_line": "Enchantment",
+  "oracle_text": "At the beginning of your draw step, you may draw two additional cards. If you do, choose two cards in your hand drawn this turn. For each of those cards, pay 4 life or put the card on top of your library.",
+  "colors": [
+   "G"
+  ],
+  "color_identity": [
+   "G"
+  ],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "30.00",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  }
+ },
+ {
+  "object": "card",
+  "oracle_id": "26680ae3-cc4a-5db5-872e-4e04c4c2f464",
+  "name": "Assassin's Trophy",
+  "layout": "normal",
+  "mana_cost": "{B}{G}",
+  "cmc": 2.0,
+  "type_line": "Instant",
+  "oracle_text": "Destroy target permanent an opponent controls. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle.",
+  "colors": [
+   "B",
+   "G"
+  ],
+  "color_identity": [
+   "B",
+   "G"
+  ],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  }
+ },
+ {
+  "object": "card",
+  "oracle_id": "de583927-b48b-5937-9a42-5874d814e87c",
+  "name": "Beast Within",
+  "layout": "normal",
+  "mana_cost": "{2}{G}",
+  "cmc": 3.0,
+  "type_line": "Instant",
+  "oracle_text": "Destroy target permanent. Its controller creates a 3/3 green Beast creature token.",
+  "colors": [
+   "G"
+  ],
+  "color_identity": [
+   "G"
+  ],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  }
+ },
+ {
+  "object": "card",
+  "oracle_id": "94f33e5f-ff30-5a48-80b4-f3dbee531661",
+  "name": "Putrefy",
+  "layout": "normal",
+  "mana_cost": "{1}{B}{G}",
+  "cmc": 3.0,
+  "type_line": "Instant",
+  "oracle_text": "Destroy target artifact or creature. It can't be regenerated.",
+  "colors": [
+   "B",
+   "G"
+  ],
+  "color_identity": [
+   "B",
+   "G"
+  ],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  }
+ },
+ {
+  "object": "card",
+  "oracle_id": "e6fb5012-1ec5-53a1-97d0-cb44c40a1f86",
+  "name": "Go for the Throat",
+  "layout": "normal",
+  "mana_cost": "{1}{B}",
+  "cmc": 2.0,
+  "type_line": "Instant",
+  "oracle_text": "Destroy target nonartifact creature.",
+  "colors": [
+   "B"
+  ],
+  "color_identity": [
+   "B"
+  ],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  }
+ },
+ {
+  "object": "card",
+  "oracle_id": "bc3a7018-f7b1-5448-9066-232c22043c8d",
+  "name": "Reclamation Sage",
+  "layout": "normal",
+  "mana_cost": "{2}{G}",
+  "cmc": 3.0,
+  "type_line": "Creature \u2014 Elf Shaman",
+  "oracle_text": "When Reclamation Sage enters, you may destroy target artifact or enchantment.",
+  "colors": [
+   "G"
+  ],
+  "color_identity": [
+   "G"
+  ],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  }
+ },
+ {
+  "object": "card",
+  "oracle_id": "8a2a2226-91df-5cd5-9fce-c38b990bca25",
+  "name": "Ravenous Chupacabra",
+  "layout": "normal",
+  "mana_cost": "{2}{B}{B}",
+  "cmc": 4.0,
+  "type_line": "Creature \u2014 Horror",
+  "oracle_text": "When Ravenous Chupacabra enters, destroy target creature an opponent controls.",
+  "colors": [
+   "B"
+  ],
+  "color_identity": [
+   "B"
+  ],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  }
+ },
+ {
+  "object": "card",
+  "oracle_id": "31c6c429-ff96-5867-9f61-4689bb66802e",
+  "name": "Feed the Swarm",
+  "layout": "normal",
+  "mana_cost": "{1}{B}",
+  "cmc": 2.0,
+  "type_line": "Sorcery",
+  "oracle_text": "Choose one \u2014\n\u2022 Destroy target creature or enchantment an opponent controls.\n\u2022 Destroy target artifact an opponent controls.\nYou lose life equal to that permanent's mana value.",
+  "colors": [
+   "B"
+  ],
+  "color_identity": [
+   "B"
+  ],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  }
+ },
+ {
+  "object": "card",
+  "oracle_id": "439aea1b-c7e9-5017-9261-eebe07b1ce15",
+  "name": "Damnation",
+  "layout": "normal",
+  "mana_cost": "{2}{B}{B}",
+  "cmc": 4.0,
+  "type_line": "Sorcery",
+  "oracle_text": "Destroy all creatures. They can't be regenerated.",
+  "colors": [
+   "B"
+  ],
+  "color_identity": [
+   "B"
+  ],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "20.00",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  }
+ },
+ {
+  "object": "card",
+  "oracle_id": "8f4f0767-b6b9-5f80-8f65-cf7c7e4a9cc2",
+  "name": "Toxic Deluge",
+  "layout": "normal",
+  "mana_cost": "{2}{B}",
+  "cmc": 3.0,
+  "type_line": "Sorcery",
+  "oracle_text": "As an additional cost to cast this spell, pay X life.\nAll creatures get -X/-X until end of turn.",
+  "colors": [
+   "B"
+  ],
+  "color_identity": [
+   "B"
+  ],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "12.00",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  }
+ },
+ {
+  "object": "card",
+  "oracle_id": "66dff780-b5ac-558d-8458-1b32402d6f7c",
+  "name": "Living Death",
+  "layout": "normal",
+  "mana_cost": "{3}{B}{B}",
+  "cmc": 5.0,
+  "type_line": "Sorcery",
+  "oracle_text": "Each player exiles all creature cards from their graveyard, then sacrifices all creatures they control, then puts all cards they exiled this way onto the battlefield.",
+  "colors": [
+   "B"
+  ],
+  "color_identity": [
+   "B"
+  ],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  }
+ },
+ {
+  "object": "card",
+  "oracle_id": "fab3c419-9c2c-5343-8ea2-88c5dac99b77",
+  "name": "Heroic Intervention",
+  "layout": "normal",
+  "mana_cost": "{1}{G}",
+  "cmc": 2.0,
+  "type_line": "Instant",
+  "oracle_text": "Permanents you control gain hexproof and indestructible until end of turn.",
+  "colors": [
+   "G"
+  ],
+  "color_identity": [
+   "G"
+  ],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  }
+ },
+ {
+  "object": "card",
+  "oracle_id": "e89308aa-1634-5999-afe7-843711df3c41",
+  "name": "Swiftfoot Boots",
+  "layout": "normal",
+  "mana_cost": "{2}",
+  "cmc": 2.0,
+  "type_line": "Artifact \u2014 Equipment",
+  "oracle_text": "Equipped creature has hexproof and haste.\nEquip {1}",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  }
+ },
+ {
+  "object": "card",
+  "oracle_id": "320de180-fe7b-5e94-ade3-2453e12e0a86",
+  "name": "Lightning Greaves",
+  "layout": "normal",
+  "mana_cost": "{2}",
+  "cmc": 2.0,
+  "type_line": "Artifact \u2014 Equipment",
+  "oracle_text": "Equipped creature has haste and shroud.\nEquip {0}",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  }
+ },
+ {
+  "object": "card",
+  "oracle_id": "e5b5355b-9454-5420-b9ab-24b57249744b",
+  "name": "Demonic Tutor",
+  "layout": "normal",
+  "mana_cost": "{1}{B}",
+  "cmc": 2.0,
+  "type_line": "Sorcery",
+  "oracle_text": "Search your library for a card, put that card into your hand, then shuffle.",
+  "colors": [
+   "B"
+  ],
+  "color_identity": [
+   "B"
+  ],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": true,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "25.00",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  }
+ },
+ {
+  "object": "card",
+  "oracle_id": "71569a36-c90c-5b50-8a58-00fb9e571f73",
+  "name": "Worldly Tutor",
+  "layout": "normal",
+  "mana_cost": "{G}",
+  "cmc": 1.0,
+  "type_line": "Instant",
+  "oracle_text": "Search your library for a creature card, reveal it, then shuffle and put the card on top.",
+  "colors": [
+   "G"
+  ],
+  "color_identity": [
+   "G"
+  ],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": true,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "15.00",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  }
+ },
+ {
+  "object": "card",
+  "oracle_id": "432f8914-1ffd-5726-8183-61be9ba24ec3",
+  "name": "Diabolic Intent",
+  "layout": "normal",
+  "mana_cost": "{1}{B}",
+  "cmc": 2.0,
+  "type_line": "Sorcery",
+  "oracle_text": "As an additional cost to cast this spell, sacrifice a creature.\nSearch your library for a card, put that card into your hand, then shuffle.",
+  "colors": [
+   "B"
+  ],
+  "color_identity": [
+   "B"
+  ],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  }
+ },
+ {
+  "object": "card",
+  "oracle_id": "f09b0323-5620-5742-8e63-45d934feec81",
+  "name": "Survival of the Fittest",
+  "layout": "normal",
+  "mana_cost": "{1}{G}",
+  "cmc": 2.0,
+  "type_line": "Enchantment",
+  "oracle_text": "{G}, Discard a creature card: Search your library for a creature card, reveal it, put it into your hand, then shuffle.",
+  "colors": [
+   "G"
+  ],
+  "color_identity": [
+   "G"
+  ],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": true,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "20.00",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  }
+ },
+ {
+  "object": "card",
+  "oracle_id": "fb4bbc03-1a30-5d8c-bb0c-fac7cd324410",
+  "name": "Reanimate",
+  "layout": "normal",
+  "mana_cost": "{B}",
+  "cmc": 1.0,
+  "type_line": "Sorcery",
+  "oracle_text": "Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to its mana value.",
+  "colors": [
+   "B"
+  ],
+  "color_identity": [
+   "B"
+  ],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  }
+ },
+ {
+  "object": "card",
+  "oracle_id": "c304ee45-249c-5837-92cd-7225e1197ccd",
+  "name": "Eternal Witness",
+  "layout": "normal",
+  "mana_cost": "{1}{G}{G}",
+  "cmc": 3.0,
+  "type_line": "Creature \u2014 Human Shaman",
+  "oracle_text": "When Eternal Witness enters, return target card from your graveyard to your hand.",
+  "colors": [
+   "G"
+  ],
+  "color_identity": [
+   "G"
+  ],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  }
+ },
+ {
+  "object": "card",
+  "oracle_id": "f12952a5-f406-5cc5-8c47-0ed31cc2b63e",
+  "name": "Animate Dead",
+  "layout": "normal",
+  "mana_cost": "{1}{B}",
+  "cmc": 2.0,
+  "type_line": "Enchantment \u2014 Aura",
+  "oracle_text": "Enchant creature card in a graveyard\nWhen Animate Dead enters, if it's on the battlefield, it loses \"enchant creature card in a graveyard\" and gains \"enchant creature put onto the battlefield with Animate Dead.\" Return enchanted creature card to the battlefield under your control and attach Animate Dead to it. When Animate Dead leaves the battlefield, that creature's controller sacrifices it.\nEnchanted creature gets -1/-0.",
+  "colors": [
+   "B"
+  ],
+  "color_identity": [
+   "B"
+  ],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  }
+ },
+ {
+  "object": "card",
+  "oracle_id": "c1e75f12-acdf-5f56-920b-7fe52cee5eb8",
+  "name": "Victimize",
+  "layout": "normal",
+  "mana_cost": "{2}{B}",
+  "cmc": 3.0,
+  "type_line": "Sorcery",
+  "oracle_text": "Choose two target creature cards in your graveyard. Sacrifice a creature, then return the chosen cards to the battlefield tapped.",
+  "colors": [
+   "B"
+  ],
+  "color_identity": [
+   "B"
+  ],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  }
+ },
+ {
+  "object": "card",
+  "oracle_id": "fd797651-342f-52d5-ba29-b37dce25c36b",
+  "name": "Dread Return",
+  "layout": "normal",
+  "mana_cost": "{2}{B}{B}",
+  "cmc": 4.0,
+  "type_line": "Sorcery",
+  "oracle_text": "Return target creature card from your graveyard to the battlefield.\nFlashback\u2014Sacrifice three creatures.",
+  "colors": [
+   "B"
+  ],
+  "color_identity": [
+   "B"
+  ],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  }
+ },
+ {
+  "object": "card",
+  "oracle_id": "ad46a451-dd04-53bb-b36d-16319cc5c8f6",
+  "name": "Viscera Seer",
+  "layout": "normal",
+  "mana_cost": "{B}",
+  "cmc": 1.0,
+  "type_line": "Creature \u2014 Vampire Wizard",
+  "oracle_text": "Sacrifice a creature: Scry 1.",
+  "colors": [
+   "B"
+  ],
+  "color_identity": [
+   "B"
+  ],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  }
+ },
+ {
+  "object": "card",
+  "oracle_id": "47e6ccb8-ed61-5451-96df-8414689dc1b7",
+  "name": "Ashnod's Altar",
+  "layout": "normal",
+  "mana_cost": "{3}",
+  "cmc": 3.0,
+  "type_line": "Artifact",
+  "oracle_text": "Sacrifice a creature: Add {C}{C}.",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "8.00",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  },
+  "produced_mana": [
+   "C"
+  ]
+ },
+ {
+  "object": "card",
+  "oracle_id": "a641dc15-37fe-59c5-8102-161949dfb18c",
+  "name": "Phyrexian Altar",
+  "layout": "normal",
+  "mana_cost": "{3}",
+  "cmc": 3.0,
+  "type_line": "Artifact",
+  "oracle_text": "Sacrifice a creature: Add one mana of any color.",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "40.00",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  },
+  "produced_mana": [
+   "W",
+   "U",
+   "B",
+   "R",
+   "G"
+  ]
+ },
+ {
+  "object": "card",
+  "oracle_id": "49c20e8f-ea69-5870-8fdc-6192935ef908",
+  "name": "Blood Artist",
+  "layout": "normal",
+  "mana_cost": "{1}{B}",
+  "cmc": 2.0,
+  "type_line": "Creature \u2014 Vampire",
+  "oracle_text": "Whenever Blood Artist or another creature dies, target player loses 1 life and you gain 1 life.",
+  "colors": [
+   "B"
+  ],
+  "color_identity": [
+   "B"
+  ],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  }
+ },
+ {
+  "object": "card",
+  "oracle_id": "ba307123-b9c2-53f5-95f2-6f500fe2bb30",
+  "name": "Zulaport Cutthroat",
+  "layout": "normal",
+  "mana_cost": "{1}{B}",
+  "cmc": 2.0,
+  "type_line": "Creature \u2014 Human Rogue Ally",
+  "oracle_text": "Whenever Zulaport Cutthroat or another creature you control dies, each opponent loses 1 life and you gain 1 life.",
+  "colors": [
+   "B"
+  ],
+  "color_identity": [
+   "B"
+  ],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  }
+ },
+ {
+  "object": "card",
+  "oracle_id": "7d6cbc31-4268-5a41-9e8f-d890e738435c",
+  "name": "Mikaeus, the Unhallowed",
+  "layout": "normal",
+  "mana_cost": "{3}{B}{B}{B}",
+  "cmc": 6.0,
+  "type_line": "Legendary Creature \u2014 Zombie Cleric",
+  "oracle_text": "Intimidate\nWhenever a Human deals damage to you, destroy it.\nOther non-Human creatures you control get +1/+1 and have undying.",
+  "colors": [
+   "B"
+  ],
+  "color_identity": [
+   "B"
+  ],
+  "keywords": [
+   "Intimidate"
+  ],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "mythic",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  }
+ },
+ {
+  "object": "card",
+  "oracle_id": "1fb78c2b-3b64-5845-8293-5e0c6e5058b4",
+  "name": "Triskelion",
+  "layout": "normal",
+  "mana_cost": "{6}",
+  "cmc": 6.0,
+  "type_line": "Artifact Creature \u2014 Construct",
+  "oracle_text": "Triskelion enters with three +1/+1 counters on it.\nRemove a +1/+1 counter from Triskelion: It deals 1 damage to any target.",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  }
+ },
+ {
+  "object": "card",
+  "oracle_id": "ba456f89-4cec-5422-ba3b-47e65d5e6fa1",
+  "name": "Gravecrawler",
+  "layout": "normal",
+  "mana_cost": "{B}",
+  "cmc": 1.0,
+  "type_line": "Creature \u2014 Zombie",
+  "oracle_text": "Gravecrawler can't block.\nYou may cast Gravecrawler from your graveyard as long as you control a Zombie.",
+  "colors": [
+   "B"
+  ],
+  "color_identity": [
+   "B"
+  ],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  }
+ },
+ {
+  "object": "card",
+  "oracle_id": "1644a316-e55e-5bd8-b2a4-7b6956e8f691",
+  "name": "Grave Pact",
+  "layout": "normal",
+  "mana_cost": "{1}{B}{B}{B}",
+  "cmc": 4.0,
+  "type_line": "Enchantment",
+  "oracle_text": "Whenever a creature you control dies, each other player sacrifices a creature.",
+  "colors": [
+   "B"
+  ],
+  "color_identity": [
+   "B"
+  ],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "10.00",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  }
+ },
+ {
+  "object": "card",
+  "oracle_id": "3dcafb26-dc82-5f93-831b-e58654e8adcc",
+  "name": "Massacre Wurm",
+  "layout": "normal",
+  "mana_cost": "{3}{B}{B}{B}",
+  "cmc": 6.0,
+  "type_line": "Creature \u2014 Phyrexian Wurm",
+  "oracle_text": "When Massacre Wurm enters, creatures your opponents control get -2/-2 until end of turn.\nWhenever a creature an opponent controls dies, that player loses 2 life.",
+  "colors": [
+   "B"
+  ],
+  "color_identity": [
+   "B"
+  ],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  }
+ },
+ {
+  "object": "card",
+  "oracle_id": "814a870d-f22b-5145-be65-06b1d0139a78",
+  "name": "Spore Frog",
+  "layout": "normal",
+  "mana_cost": "{G}",
+  "cmc": 1.0,
+  "type_line": "Creature \u2014 Frog",
+  "oracle_text": "Sacrifice Spore Frog: Prevent all combat damage that would be dealt this turn.",
+  "colors": [
+   "G"
+  ],
+  "color_identity": [
+   "G"
+  ],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  }
+ },
+ {
+  "object": "card",
+  "oracle_id": "f62f2b02-4d5a-5827-805c-e7946ac883d0",
+  "name": "Plaguecrafter",
+  "layout": "normal",
+  "mana_cost": "{2}{B}",
+  "cmc": 3.0,
+  "type_line": "Creature \u2014 Human Shaman",
+  "oracle_text": "When Plaguecrafter enters, each player sacrifices a creature or planeswalker of their choice. Each player who can't discards a card.",
+  "colors": [
+   "B"
+  ],
+  "color_identity": [
+   "B"
+  ],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  }
+ },
+ {
+  "object": "card",
+  "oracle_id": "465d32a6-6f3c-5298-ab5a-f468c97fd051",
+  "name": "Fleshbag Marauder",
+  "layout": "normal",
+  "mana_cost": "{2}{B}",
+  "cmc": 3.0,
+  "type_line": "Creature \u2014 Phyrexian Zombie Warrior",
+  "oracle_text": "When Fleshbag Marauder enters, each player sacrifices a creature of their choice.",
+  "colors": [
+   "B"
+  ],
+  "color_identity": [
+   "B"
+  ],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  }
+ },
+ {
+  "object": "card",
+  "oracle_id": "6507f3f7-eb8e-5b63-bab0-ede272ec602c",
+  "name": "Overrun",
+  "layout": "normal",
+  "mana_cost": "{2}{G}{G}{G}",
+  "cmc": 5.0,
+  "type_line": "Sorcery",
+  "oracle_text": "Creatures you control get +3/+3 and gain trample until end of turn.",
+  "colors": [
+   "G"
+  ],
+  "color_identity": [
+   "G"
+  ],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  }
+ },
+ {
+  "object": "card",
+  "oracle_id": "f68c1b6f-f872-5481-89fa-f64404bab19d",
+  "name": "Darksteel Colossus",
+  "layout": "normal",
+  "mana_cost": "{11}",
+  "cmc": 11.0,
+  "type_line": "Artifact Creature \u2014 Golem",
+  "oracle_text": "Trample, indestructible\nIf Darksteel Colossus would be put into a graveyard from anywhere, reveal Darksteel Colossus and shuffle it into its owner's library instead.",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [
+   "Trample",
+   "Indestructible"
+  ],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  }
+ },
+ {
+  "object": "card",
+  "oracle_id": "8869c8b6-ead9-57c9-adbf-9dc5c5e04dba",
+  "name": "Pitiless Plunderer",
+  "layout": "normal",
+  "mana_cost": "{3}{B}",
+  "cmc": 4.0,
+  "type_line": "Creature \u2014 Human Pirate",
+  "oracle_text": "Whenever another creature you control dies, create a Treasure token.",
+  "colors": [
+   "B"
+  ],
+  "color_identity": [
+   "B"
+  ],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  }
+ },
+ {
+  "object": "card",
+  "oracle_id": "58b2aa1c-cf6b-526c-b0db-0fbd8bbc27ea",
+  "name": "Yawgmoth, Thran Physician",
+  "layout": "normal",
+  "mana_cost": "{2}{B}{B}",
+  "cmc": 4.0,
+  "type_line": "Legendary Creature \u2014 Human Cleric",
+  "oracle_text": "Protection from Humans\nPay 1 life, Sacrifice another creature: Put a -1/-1 counter on up to one target creature and draw a card.\n{B}{B}, Discard a card: Proliferate.",
+  "colors": [
+   "B"
+  ],
+  "color_identity": [
+   "B"
+  ],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "mythic",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "35.00",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  }
+ },
+ {
+  "object": "card",
+  "oracle_id": "0ee528d5-c228-58be-8856-613ed05fc295",
+  "name": "Bala Ged Recovery // Bala Ged Sanctuary",
+  "layout": "modal_dfc",
+  "cmc": 3.0,
+  "color_identity": [
+   "G"
+  ],
+  "colors": [
+   "G"
+  ],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 900,
+  "rarity": "uncommon",
+  "digital": false,
+  "reserved": false,
+  "games": [
+   "paper"
+  ],
+  "produced_mana": [
+   "G"
+  ],
+  "prices": {
+   "usd": "0.40"
+  },
+  "type_line": "Sorcery // Land",
+  "card_faces": [
+   {
+    "name": "Bala Ged Recovery",
+    "mana_cost": "{2}{G}",
+    "type_line": "Sorcery",
+    "oracle_text": "Return target card from your graveyard to your hand.",
+    "colors": [
+     "G"
+    ]
+   },
+   {
+    "name": "Bala Ged Sanctuary",
+    "mana_cost": "",
+    "type_line": "Land",
+    "oracle_text": "Bala Ged Sanctuary enters tapped.\n{T}: Add {G}.",
+    "colors": []
+   }
+  ]
+ },
+ {
+  "object": "card",
+  "oracle_id": "386318b1-a741-5b3d-8c4d-93ba61c78df6",
+  "name": "Command Tower",
+  "layout": "normal",
+  "mana_cost": "",
+  "cmc": 0.0,
+  "type_line": "Land",
+  "oracle_text": "{T}: Add one mana of any color in your commander's color identity.",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "common",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  },
+  "produced_mana": [
+   "W",
+   "U",
+   "B",
+   "R",
+   "G"
+  ]
+ },
+ {
+  "object": "card",
+  "oracle_id": "4fd7e291-2e93-5718-8813-365e289e42aa",
+  "name": "Overgrown Tomb",
+  "layout": "normal",
+  "mana_cost": "",
+  "cmc": 0.0,
+  "type_line": "Land \u2014 Swamp Forest",
+  "oracle_text": "({T}: Add {B} or {G}.)\nAs Overgrown Tomb enters, you may pay 2 life. If you don't, it enters tapped.",
+  "colors": [],
+  "color_identity": [
+   "B",
+   "G"
+  ],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "15.00",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  },
+  "produced_mana": [
+   "B",
+   "G"
+  ]
+ },
+ {
+  "object": "card",
+  "oracle_id": "8b1c4935-fb50-50b9-aad8-5a842b67f502",
+  "name": "Llanowar Wastes",
+  "layout": "normal",
+  "mana_cost": "",
+  "cmc": 0.0,
+  "type_line": "Land",
+  "oracle_text": "{T}: Add {C}.\n{T}: Add {B} or {G}. Llanowar Wastes deals 1 damage to you.",
+  "colors": [],
+  "color_identity": [
+   "B",
+   "G"
+  ],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  },
+  "produced_mana": [
+   "C",
+   "B",
+   "G"
+  ]
+ },
+ {
+  "object": "card",
+  "oracle_id": "a6551bb0-814a-5505-b505-f0631cd60feb",
+  "name": "Woodland Cemetery",
+  "layout": "normal",
+  "mana_cost": "",
+  "cmc": 0.0,
+  "type_line": "Land",
+  "oracle_text": "Woodland Cemetery enters tapped unless you control a Swamp or a Forest.\n{T}: Add {B} or {G}.",
+  "colors": [],
+  "color_identity": [
+   "B",
+   "G"
+  ],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  },
+  "produced_mana": [
+   "B",
+   "G"
+  ]
+ },
+ {
+  "object": "card",
+  "oracle_id": "f4e4c49a-96d6-52d2-a32f-e6cfd9825618",
+  "name": "Golgari Rot Farm",
+  "layout": "normal",
+  "mana_cost": "",
+  "cmc": 0.0,
+  "type_line": "Land",
+  "oracle_text": "Golgari Rot Farm enters tapped.\nWhen Golgari Rot Farm enters, return a land you control to its owner's hand.\n{T}: Add {B}{G}.",
+  "colors": [],
+  "color_identity": [
+   "B",
+   "G"
+  ],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "common",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  },
+  "produced_mana": [
+   "B",
+   "G"
+  ]
+ },
+ {
+  "object": "card",
+  "oracle_id": "04e99ca6-d6f4-5589-809f-73299576bacf",
+  "name": "Jungle Hollow",
+  "layout": "normal",
+  "mana_cost": "",
+  "cmc": 0.0,
+  "type_line": "Land",
+  "oracle_text": "Jungle Hollow enters tapped.\nWhen Jungle Hollow enters, you gain 1 life.\n{T}: Add {B} or {G}.",
+  "colors": [],
+  "color_identity": [
+   "B",
+   "G"
+  ],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "common",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  },
+  "produced_mana": [
+   "B",
+   "G"
+  ]
+ },
+ {
+  "object": "card",
+  "oracle_id": "2087fe09-b587-556a-9f23-1a2629d2de4f",
+  "name": "Reliquary Tower",
+  "layout": "normal",
+  "mana_cost": "",
+  "cmc": 0.0,
+  "type_line": "Land",
+  "oracle_text": "You have no maximum hand size.\n{T}: Add {C}.",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  },
+  "produced_mana": [
+   "C"
+  ]
+ },
+ {
+  "object": "card",
+  "oracle_id": "0006a8df-05df-5a13-bc24-7571e28f48c3",
+  "name": "Verdant Catacombs",
+  "layout": "normal",
+  "mana_cost": "",
+  "cmc": 0.0,
+  "type_line": "Land",
+  "oracle_text": "{T}, Pay 1 life, Sacrifice Verdant Catacombs: Search your library for a Swamp or Forest card, put it onto the battlefield, then shuffle.",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "20.00",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  }
+ },
+ {
+  "object": "card",
+  "oracle_id": "ad89b531-e5d0-5913-aaa1-0a423563ba5c",
+  "name": "Evolving Wilds",
+  "layout": "normal",
+  "mana_cost": "",
+  "cmc": 0.0,
+  "type_line": "Land",
+  "oracle_text": "{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "common",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  }
+ },
+ {
+  "object": "card",
+  "oracle_id": "dc98127f-7115-588f-a910-5783844d3b86",
+  "name": "Bojuka Bog",
+  "layout": "normal",
+  "mana_cost": "",
+  "cmc": 0.0,
+  "type_line": "Land",
+  "oracle_text": "Bojuka Bog enters tapped.\nWhen Bojuka Bog enters, exile target player's graveyard.\n{T}: Add {B}.",
+  "colors": [],
+  "color_identity": [
+   "B"
+  ],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "common",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  },
+  "produced_mana": [
+   "B"
+  ]
+ },
+ {
+  "object": "card",
+  "oracle_id": "db0537ec-27a3-5756-a4bd-f39dfab829b8",
+  "name": "Swamp",
+  "layout": "normal",
+  "mana_cost": "",
+  "cmc": 0.0,
+  "type_line": "Basic Land \u2014 Swamp",
+  "oracle_text": "({T}: Add {B}.)",
+  "colors": [],
+  "color_identity": [
+   "B"
+  ],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "common",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.05",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  },
+  "produced_mana": [
+   "B"
+  ]
+ },
+ {
+  "object": "card",
+  "oracle_id": "7f568108-c457-5467-bce9-744bdc6564fa",
+  "name": "Forest",
+  "layout": "normal",
+  "mana_cost": "",
+  "cmc": 0.0,
+  "type_line": "Basic Land \u2014 Forest",
+  "oracle_text": "({T}: Add {G}.)",
+  "colors": [],
+  "color_identity": [
+   "G"
+  ],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "common",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.05",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  },
+  "produced_mana": [
+   "G"
+  ]
+ },
+ {
+  "object": "card",
+  "oracle_id": "588b061f-0b80-57f3-8e19-a08319b285b9",
+  "name": "Fatal Push",
+  "layout": "normal",
+  "mana_cost": "{B}",
+  "cmc": 1.0,
+  "type_line": "Instant",
+  "oracle_text": "Destroy target creature if it has mana value 2 or less.\nRevolt \u2014 Destroy that creature instead if it has mana value 4 or less if a permanent you controlled left the battlefield this turn.",
+  "colors": [
+   "B"
+  ],
+  "color_identity": [
+   "B"
+  ],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  }
+ },
+ {
+  "object": "card",
+  "oracle_id": "8cb8e293-ef71-5d9d-a477-5c76e632fa88",
+  "name": "Deadly Rollick",
+  "layout": "normal",
+  "mana_cost": "{3}{B}",
+  "cmc": 4.0,
+  "type_line": "Instant",
+  "oracle_text": "If you control a commander, you may cast this spell without paying its mana cost.\nExile target creature.",
+  "colors": [
+   "B"
+  ],
+  "color_identity": [
+   "B"
+  ],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  }
+ },
+ {
+  "object": "card",
+  "oracle_id": "783323e8-f658-5503-8d72-16e9e4cfa051",
+  "name": "Rampant Growth",
+  "layout": "normal",
+  "mana_cost": "{1}{G}",
+  "cmc": 2.0,
+  "type_line": "Sorcery",
+  "oracle_text": "Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.",
+  "colors": [
+   "G"
+  ],
+  "color_identity": [
+   "G"
+  ],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "common",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  }
+ },
+ {
+  "object": "card",
+  "oracle_id": "45bfe275-4b13-59c4-bfde-d80652172d58",
+  "name": "Armageddon",
+  "layout": "normal",
+  "mana_cost": "{3}{W}",
+  "cmc": 4.0,
+  "type_line": "Sorcery",
+  "oracle_text": "Destroy all lands.",
+  "colors": [
+   "W"
+  ],
+  "color_identity": [
+   "W"
+  ],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  }
+ },
+ {
+  "object": "card",
+  "oracle_id": "136d0a8b-ffcb-5c6a-9531-3214945d9f02",
+  "name": "Nim Deathmantle",
+  "layout": "normal",
+  "mana_cost": "{2}",
+  "cmc": 2.0,
+  "type_line": "Artifact \u2014 Equipment",
+  "oracle_text": "Equipped creature gets +2/+2, has intimidate, and is a black Zombie.\nWhenever a nontoken creature is put into your graveyard from the battlefield, you may pay {4}. If you do, return that card to the battlefield and attach Nim Deathmantle to it.\nEquip {4}",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "3.00",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  }
+ },
+ {
+  "object": "card",
+  "oracle_id": "b4063e51-f594-558f-af26-d68d555a3757",
+  "name": "Time Warp",
+  "layout": "normal",
+  "mana_cost": "{3}{U}{U}",
+  "cmc": 5.0,
+  "type_line": "Sorcery",
+  "oracle_text": "Target player takes an extra turn after this one.",
+  "colors": [
+   "U"
+  ],
+  "color_identity": [
+   "U"
+  ],
+  "keywords": [],
+  "legalities": {
+   "commander": "legal"
+  },
+  "game_changer": false,
+  "edhrec_rank": 500,
+  "reserved": false,
+  "digital": false,
+  "rarity": "rare",
+  "games": [
+   "paper",
+   "mtgo"
+  ],
+  "prices": {
+   "usd": "0.50",
+   "usd_foil": null,
+   "eur": null,
+   "tix": null
+  }
+ }
+]
