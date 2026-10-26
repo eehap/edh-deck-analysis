@@ -25,7 +25,7 @@ Scripts live in `scripts/` next to this file. They use only the Python standard 
 
 Sandboxes often block the data sites: the shell gets `CONNECT tunnel failed, response 403`, and the scripts print `Cannot reach … allowlisted`. Don't retry with other shell tools, because they all go through the same proxy. Options, best first:
 
-1. **Browser fetch.** If a browser tool is available (the built-in browser pane or Claude in Chrome), run the ready-made snippets in `scripts/browser/` inside a page of the right site. Each returns compact JSON in exactly the shape a script accepts, split into ~24 KB chunks. Copy each chunk verbatim into `part-N.txt`, then run `python scripts/edh_common.py join <out>.json part-*.txt` to rebuild and validate the file. Never retype or reshape the JSON by hand; that is slow and error-prone.
+1. **Browser fetch.** If a browser tool is available (any tool that can run JavaScript in a web page), run the ready-made snippets in `scripts/browser/` inside a page of the right site. Each returns compact JSON in exactly the shape a script accepts, split into ~24 KB chunks. Copy each chunk verbatim into `part-N.txt`, then run `python scripts/edh_common.py join <out>.json part-*.txt` to rebuild and validate the file. Never retype or reshape the JSON by hand; that is slow and error-prone.
    - Deck: `moxfield_deck.js` on the deck's own moxfield.com page → `parsed.json`.
    - Cards and oracle tags: `cards_scryfall.js` in the same tab → `cards.json`. Then run
      `python scripts/enrich.py parsed.json --cards-json cards.json --no-api -o deck.json`.

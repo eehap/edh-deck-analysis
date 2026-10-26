@@ -1,8 +1,10 @@
 # EDH deck skills
 
-Five Claude [Agent Skills](https://code.claude.com/docs/en/skills) that review a Magic: The Gathering Commander (EDH) deck. They report its structure and mana base, the combos it contains or nearly contains, where it sits in the official Commander Brackets, and a prioritized list of cards to cut and add, with a reason for each swap.
+Five [Agent Skills](https://agentskills.io) that review a Magic: The Gathering Commander (EDH) deck. They report its structure and mana base, the combos it contains or nearly contains, where it sits in the official Commander Brackets, and a prioritized list of cards to cut and add, with a reason for each swap.
 
-The scripts do the counting and the math. Claude makes the judgment calls the rules can't: which cards are engine pieces or off-plan for this commander, whether a combo has a real outlet, the bracket estimate, and the final wording of every swap.
+They follow the open Agent Skills format (a `SKILL.md` per folder), so they work in any agent harness that loads skills: Claude Code, claude.ai, Codex, Cursor, Gemini CLI, OpenCode and others.
+
+The scripts do the counting and the math. The agent makes the judgment calls the rules can't: which cards are engine pieces or off-plan for this commander, whether a combo has a real outlet, the bracket estimate, and the final wording of every swap.
 
 | Skill | What it does |
 |---|---|
@@ -14,26 +16,32 @@ The scripts do the counting and the math. Claude makes the judgment calls the ru
 
 ## Install
 
-**claude.ai / Claude desktop app:** build the `.skill` files and upload each one in your Skills settings:
+**Any agent (npx):** the [skills CLI](https://github.com/vercel-labs/skills) (Node.js required) detects your installed agents and copies the skills into each one's skills folder:
 
 ```
-python tools/package_skills.py      # writes dist/*.skill
+npx skills add eehap/edh-deck-analysis
 ```
 
-**Claude Code:** copy or symlink the skill folders into your personal skills folder, keeping all five side by side:
+**Manual:** copy or symlink the five `skills/edh-*` folders, side by side, into your agent's skills folder. For example, in Claude Code:
 
 ```
 mkdir -p ~/.claude/skills
 ln -s "$PWD"/skills/edh-* ~/.claude/skills/
 ```
 
-If you sign in to Claude Code with your claude.ai account, skills saved to that account also sync into `~/.claude/skills/synced/`.
+Check your harness's docs for its folder.
 
-The scripts use only the Python standard library (Python 3.9+).
+**claude.ai / Claude desktop app:** build the `.skill` files and upload each one in your Skills settings:
+
+```
+python tools/package_skills.py      # writes dist/*.skill
+```
+
+The agent needs a shell that can run Python 3.9+. The scripts use only the standard library.
 
 ## Use
 
-Ask Claude for a deck review and share a decklist or a Moxfield/Archidekt link. The orchestrator skill does the rest. To run the pipeline by hand from the repo root:
+Ask your agent for a deck review and share a decklist or a Moxfield/Archidekt link. The orchestrator skill does the rest. To run the pipeline by hand from the repo root:
 
 ```
 python skills/edh-deck-review/scripts/pipeline.py phase1 --work work/ --deck deck.txt
@@ -48,9 +56,9 @@ python skills/edh-deck-review/scripts/pipeline.py phase2 --work work/ --strategy
 
 The scripts call Scryfall, Commander Spellbook, EDHREC and Moxfield/Archidekt directly. On your own machine that normally just works. Sandboxed environments often block these hosts:
 
-- **Claude Code's optional Bash sandbox:** allow the domains below in its network settings.
-- **Claude Code cloud sessions:** set the environment's network access to **Custom** and add the domains.
-- **claude.ai's sandbox:** use the browser fallback. JavaScript snippets in each skill's `scripts/browser/` fetch the data from a browser tab, in exactly the format the scripts accept. See `skills/edh-deck-intake/references/browser_fetch.md`.
+- **Local sandboxes** (for example Claude Code's Bash sandbox or Codex's sandbox): allow the domains below in the sandbox's network settings.
+- **Cloud agents** (for example Claude Code cloud sessions): allow the domains in the environment's network settings.
+- **No outbound network** (for example claude.ai's sandbox): use the browser fallback. JavaScript snippets in each skill's `scripts/browser/` fetch the data from a browser tab, in exactly the format the scripts accept. See `skills/edh-deck-intake/references/browser_fetch.md`.
 
 Domains: `api.scryfall.com`, `data.scryfall.io`, `backend.commanderspellbook.com`, `json.commanderspellbook.com`, `json.edhrec.com`, `api2.moxfield.com`, `archidekt.com`.
 
